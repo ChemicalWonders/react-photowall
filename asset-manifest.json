@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-photowall/static/css/main.a1590258.chunk.css",
+    "main.js": "/react-photowall/static/js/main.21e2afa3.chunk.js",
+    "main.js.map": "/react-photowall/static/js/main.21e2afa3.chunk.js.map",
+    "runtime~main.js": "/react-photowall/static/js/runtime~main.cff97ab3.js",
+    "runtime~main.js.map": "/react-photowall/static/js/runtime~main.cff97ab3.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/react-photowall/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/react-photowall/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/react-photowall/index.html",
+    "precache-manifest.b61140ad28d71774e1fcc4096dd805da.js": "/react-photowall/precache-manifest.b61140ad28d71774e1fcc4096dd805da.js",
+    "service-worker.js": "/react-photowall/service-worker.js",
+    "static/css/main.a1590258.chunk.css.map": "/react-photowall/static/css/main.a1590258.chunk.css.map"
+  }
+}
