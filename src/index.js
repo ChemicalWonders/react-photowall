@@ -4,4 +4,4 @@ import Main from './Components/Main';
 import './styles/stylesheet.css';
 import {BrowserRouter} from 'react-router-dom';
 
-ReactDOM.render(<BrowserRouter><Main/></BrowserRouter>, document.getElementById('root'));
+ReactDOM.render(<BrowserRouter basename="/"><Main/></BrowserRouter>, document.getElementById('root'));
